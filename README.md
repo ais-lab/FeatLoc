@@ -54,6 +54,6 @@ Precise localization using visual sensors is a fundamental requirement in many a
 
 
 ## BibTex Citation 
-Please consider citing our work if you use our code from this repo:
+Please consider citing our work if you use our code from this repo.
  
 
