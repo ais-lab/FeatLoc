@@ -5,7 +5,7 @@ We introduce FeatLoc, a neural network for end-to-end learning of camera localiz
   * This repository will host the training and inference code. We will release the code in very next some weeks!
 
 <p align="center">
-<img src="https://github.com/thuanaislab/FeatLoc_thuan/blob/main/doc/fig1.svg" width="500" height="320">
+<img src="https://github.com/ais-lab/FeatLoc/blob/main/doc/fig1.svg" width="500" height="320">
 <p>
  
 ## Abstract
@@ -15,7 +15,7 @@ Precise localization using visual sensors is a fundamental requirement in many a
 ### Network Architecture
 
 <p align="center">
-<img src="https://github.com/thuanaislab/FeatLoc_thuan/blob/main/doc/fig4.svg" width="800" height="290">
+<img src="https://github.com/ais-lab/FeatLoc/blob/main/doc/fig4.svg" width="800" height="290">
 <p>
 
 ### Results on [7Scenes](https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/) and [12Scenes](http://graphics.stanford.edu/projects/reloc/)
