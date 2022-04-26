@@ -46,23 +46,3 @@ else:
 
 evaler = Evaluator(model , test_loader, args)
 m,n = evaler.eval_sfm()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
