@@ -1,0 +1,7 @@
+torch==1.5.0
+opencv-python
+pandas
+matplotlib
+tqdm
+h5py
+scipy
