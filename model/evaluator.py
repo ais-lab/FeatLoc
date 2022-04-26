@@ -172,32 +172,4 @@ class Evaluator(object):
         return meand_t, meand_q
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
     
