@@ -118,30 +118,3 @@ cri = [criterion, val_criterion]
 trainer = Trainer(model, optimizer_configs, trainLoader , test_loader, cri, args)
 trainer.train_sfm()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
