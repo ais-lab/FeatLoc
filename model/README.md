@@ -1,5 +1,5 @@
 
-Please cite the SuperPoint paper:
+Please cite the [SuperPoint](https://arxiv.org/abs/1712.07629) paper:
 ```
 @inproceedings{detone2018superpoint,
   title={Superpoint: Self-supervised interest point detection and description},
