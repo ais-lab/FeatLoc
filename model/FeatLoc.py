@@ -85,35 +85,4 @@ class MainModel(nn.Module):
         out_t = self.fc3_t(out)
         
         return torch.cat([out_t, out_r], dim = 1)
-
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+ 
