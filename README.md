@@ -3,7 +3,7 @@ This is the PyTorch implementation of our ISPRS 2022 paper. We introduce FeatLoc
 Authors: [Thuan Bui Bach](https://scholar.google.co.kr/citations?user=_uvHRywAAAAJ&hl=en), [Tuan Tran Dinh](https://sites.google.com/view/tuantd), [Joo-Ho Lee](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220)
 
 <p align="center">
-<img src="https://github.com/thuanaislab/FeatLoc_thuan/blob/main/doc/fig1.svg" width="500" height="320">
+<img src="https://github.com/ais-lab/FeatLoc/blob/main/doc/fig1.svg" width="500" height="320">
 <p>
 
 ## BibTex Citation 
@@ -21,7 +21,7 @@ If you find this project useful, please cite:
 ### Network Architecture
 
 <p align="center">
-<img src="https://github.com/thuanaislab/FeatLoc_thuan/blob/main/doc/fig4.svg" width="800" height="290">
+<img src="https://github.com/ais-lab/FeatLoc/blob/main/doc/fig4.svg" width="800" height="290">
 <p>
 
 ### Results on [7Scenes](https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/) and [12Scenes](http://graphics.stanford.edu/projects/reloc/)
@@ -99,7 +99,7 @@ cd dataset
 python gendata.py --dataset 7scenes --scene chess --augment 1
 ```
 <p align="center">
-<img src="https://github.com/thuanaislab/FeatLoc_thuan/blob/main/doc/out_gendata_chess.PNG" width="500">
+<img src="https://github.com/ais-lab/FeatLoc/blob/main/doc/out_gendata_chess.PNG" width="500">
 <p>
 
 ### Running the code
@@ -112,7 +112,7 @@ Median error in translation = 0.2601 m
 Median error in rotation    = 3.8867 degrees
 ```
 <p align="center">
-<img src="https://github.com/thuanaislab/FeatLoc_thuan/blob/main/doc/apt1_living_featloc.svg" width="500" height="320">
+<img src="https://github.com/ais-lab/FeatLoc/blob/main/doc/apt1_living_featloc.svg" width="500" height="320">
 <p>
 
   * You can download the prepared testing data and trained models of 12scenes from the [Google drive](https://drive.google.com/drive/folders/1K5CdXdSPOQv3EJbwL9FbbuaocNAc-4dF?usp=sharing) (please move the data folders and model files to ```dataset/Generated_Data``` and ```results``` folder respectively)
