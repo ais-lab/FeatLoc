@@ -53,10 +53,6 @@ class MainModel(nn.Module):
         self.conv1 = nn.Conv1d(512+128, self.config['num_hidden'], 1)
         self.fc3_r = nn.Linear(40, 3)
         self.fc3_t = nn.Linear(40, 3)
-        self.bn = nn.BatchNorm1d(2048, momentum=BN_MOMENTUM)
-        self.bn1 = nn.BatchNorm1d(512, momentum=BN_MOMENTUM)
-        self.bn2 = nn.BatchNorm1d(1024, momentum=BN_MOMENTUM)
-        self.bn3 = nn.BatchNorm1d(40, momentum=BN_MOMENTUM)
         
         self.SA_modules = nn.ModuleList()
         self.SA_modules.append(
