@@ -225,25 +225,4 @@ class Trainer(object):
         print("... Saved last epoch ...")
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+         
