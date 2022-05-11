@@ -9,12 +9,13 @@ Authors: [Thuan Bui Bach](https://scholar.google.co.kr/citations?user=_uvHRywAAA
 ## BibTex Citation 
 If you find this project useful, please cite:
 ```
-@article{featloc2022,
-  title={FeatLoc: Absolute Pose Regressor for Indoor 2D Sparse Features with Simplistic View Synthesizing},
-  author={Thuan Bui Bach and Tuan Tran Dinh and Joo-Ho Lee},
-  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
-  year={2022},
-  publisher={Elsevier}
+@article{BACH202250,
+title = {FeatLoc: Absolute pose regressor for indoor 2D sparse features with simplistic view synthesizing},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {189},
+pages = {50-62},
+year = {2022},
+doi = {https://doi.org/10.1016/j.isprsjprs.2022.04.021},
 }
 ```
 
