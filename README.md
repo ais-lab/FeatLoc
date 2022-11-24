@@ -1,6 +1,6 @@
 # [FeatLoc: Absolute Pose Regressor for Indoor 2D Sparse Features with Simplistic View Synthesizing](https://doi.org/10.1016/j.isprsjprs.2022.04.021)
 This is the PyTorch implementation of our [ISPRS 2022 paper](https://doi.org/10.1016/j.isprsjprs.2022.04.021). We introduce FeatLoc, a neural network for end-to-end learning of camera localization from indoor 2D sparse features. 
-Authors: [Thuan Bui Bach](https://scholar.google.co.kr/citations?user=_uvHRywAAAAJ&hl=en), [Tuan Tran Dinh](https://sites.google.com/view/tuantd), [Joo-Ho Lee](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220)
+Authors: [Thuan Bui Bach](https://thuanbb.github.io/), [Tuan Tran Dinh](https://sites.google.com/view/tuantd), [Joo-Ho Lee](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220)
 
 <p align="center">
 <img src="https://github.com/ais-lab/FeatLoc/blob/main/doc/fig1.svg" width="500" height="320">
